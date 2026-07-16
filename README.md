@@ -6,4 +6,7 @@
 
 Play **Death Worm** with unlimited coins.
 
+# How To
+Once you complete both tutorials, claim rewards and you will get infinite gems and coins. Enjoy!
+
 ### [⬇️ Download](https://github.com/m0dman322/death-worm-mod/releases)
