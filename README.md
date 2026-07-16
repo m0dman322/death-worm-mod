@@ -6,4 +6,4 @@
 
 Play **Death Worm** with unlimited coins.
 
-### [⬇️ Download](https://wormhole.app/dLR89Y#BFsDwjgR64DEzLLMWliprA)
+### [⬇️ Download](https://github.com/m0dman322/death-worm-mod/releases)
